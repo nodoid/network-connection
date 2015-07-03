@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="iOS/connectivity.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone4s.8.3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/AppDelegate.cs">
+    <Files>
+      <File FileName="Droid/MainActivity.cs" Line="42" Column="15" />
+      <File FileName="connectivity/IConnectivity.cs" Line="9" Column="1" />
+      <File FileName="connectivity/connectivity.cs" Line="23" Column="49" />
+      <File FileName="connectivity/Events.cs" Line="17" Column="32" />
+      <File FileName="Droid/Properties/AndroidManifest.xml" Line="7" Column="73" />
+      <File FileName="Droid/Connectivity.cs" Line="6" Column="2" />
+      <File FileName="Droid/NetworkUtils.cs" Line="14" Column="17" />
+      <File FileName="Droid/Connection.cs" Line="25" Column="1" />
+      <File FileName="iOS/AppDelegate.cs" Line="46" Column="1" />
+      <File FileName="../../../FTrack/ftrack2-ios/ftrack2-ios/AppDelegate.cs" Line="208" Column="88" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
